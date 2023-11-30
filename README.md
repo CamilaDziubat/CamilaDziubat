@@ -1,4 +1,7 @@
-## Faaaala dev, Camila Aqui!
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;+Me+chamo+Camila+Dziubat!;" />
+</h1>
 
 <div>
   
@@ -32,5 +35,7 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/CamilaDziubat/CamilaDziubat/blob/output/github-contribution-grid-snake.svg)
+
+  <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!!!;" />
+</h1>
