@@ -110,3 +110,49 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+## Mapas
+
+É possível usar a sintaxe GeoJSON ou TopoJSON para criar mapas interativos. Para criar um mapa, adicione GeoJSON ou TopoJSON em um bloco de código protegido com o identificador de sintaxe geojson ou topojson. 
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              35
+            ],
+            [
+              -90,
+              30
+            ],
+            [
+              -85,
+              30
+            ],
+            [
+              -85,
+              35
+            ],
+            [
+              -90,
+              35
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
