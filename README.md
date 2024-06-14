@@ -1,6 +1,7 @@
 <img src=".github/star.gif" alt="STAR" width="40"> 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;+Como+vai+?;Seja+bem+vindo+!!!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;+Como+vai+?;Seja+bem+vindo+!!!;" /> 
+
 </h1>
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -28,9 +29,6 @@
 <br/>
 
 #### Main Stack:  
-<img src=".github/heart.gif" alt="Heart exploding 1" width="70">
-  <img src=".github/heart.gif" alt="Heart exploding 2" width="70">
-    <img src=".github/heart.gif" alt="Heart exploding 3" width="70">
 <br/>
 <br/>
 
