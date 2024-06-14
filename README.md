@@ -137,5 +137,12 @@
   />
 </p>
 
+ <div align="left">Thanks for visiting.  <br>
+    <img align="left" src=".github/bat.gif" alt="Bat" width="30">
+
+   Enjoy!!!
+     <img align="left" src=".github/star.gif" alt="Bat" width="30">
+</div>
+
 
 
