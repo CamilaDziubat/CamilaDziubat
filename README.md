@@ -35,7 +35,7 @@
 
 <br/>
 
- My Skills :heart_eyes: 
+<img src="cog3.gif" alt="STAR" width="40"> My Skills :heart_eyes: <img src="cog3.gif" alt="STAR" width="40">
  <img align="left" src=".github/star.gif" alt="Bat" width="30">
 <br/>
 
