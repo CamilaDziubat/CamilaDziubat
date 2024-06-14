@@ -23,7 +23,7 @@
 
 <br/>
 
- My Skills :heart_eyes:
+ My Skills :heart_eyes: <img align="left" src=".github/star.gif" alt="Bat" width="30">
 <br/>
 
 #### Main Stack:
