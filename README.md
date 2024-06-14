@@ -23,7 +23,7 @@
 
 <br/>
 
-## My Skills :heart_eyes:
+ My Skills :heart_eyes:
 <br/>
 
 #### Main Stack:
