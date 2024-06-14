@@ -23,7 +23,8 @@
 
 <br/>
 
- My Skills :heart_eyes: <img align="left" src=".github/star.gif" alt="Bat" width="30">
+ My Skills :heart_eyes: 
+ <img align="left" src=".github/star.gif" alt="Bat" width="30">
 <br/>
 
 #### Main Stack:
@@ -75,7 +76,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/qwerty541zxc)
 
-
+&nbsp;
+&nbsp;
 
 
 <div  align="center"> 
