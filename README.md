@@ -27,7 +27,10 @@
  <img align="left" src=".github/star.gif" alt="Bat" width="30">
 <br/>
 
-#### Main Stack:
+#### Main Stack:  
+<img src=".github/heart.gif" alt="Heart exploding 1" width="70">
+  <img src=".github/heart.gif" alt="Heart exploding 2" width="70">
+    <img src=".github/heart.gif" alt="Heart exploding 3" width="70">
 <br/>
 <br/>
 
