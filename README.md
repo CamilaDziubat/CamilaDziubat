@@ -76,8 +76,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/qwerty541zxc)
 
 
-&nbsp;
-&nbsp;
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
