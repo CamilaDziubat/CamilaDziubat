@@ -102,7 +102,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
-  
+  ##oi
   <h1 align="center">Redes Sociais   <img align="left" src="star.gif" alt="Bat" width="30"> </h1>
     <a href = "mailto: goncalvesscamilla07@gmail.com">
       <img width="30" src="gmail.svg">
