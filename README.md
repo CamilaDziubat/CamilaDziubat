@@ -1,4 +1,18 @@
+#### SOBRE:
 
+
+<img align="right" width="340" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let name = 'Camila Dziubat';
+    let acknowledgements = 'Software Engineer Junior';
+
+    let location = 'Itajai, Sanata Catarina, Brazil';
+    let company = 'On Demand Development';
+}
+
+```
 
 <img src=".github/star.gif" alt="STAR" width="40"> 
 <h1 align="center">
