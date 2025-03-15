@@ -9,7 +9,7 @@ fn main() {
     let acknowledgements = 'Software Engineer Junior';
 
     let location = 'Itajai, Santa Catarina, Brazil';
-    let company = 'On Demand Development';
+    let company = '""';
 }
 
 ```
