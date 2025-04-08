@@ -186,4 +186,3 @@ fn main() {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
-
