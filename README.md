@@ -16,7 +16,11 @@ fn main() {
 
 <img src=".github/star.gif" alt="STAR" width="40"> 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;+Como+vai+?;Seja+bem+vindo+!!!;" />  <img align="left" src="cat.gif" alt="cat.gif"  width="20%"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;++Seja+bem-+vindo!!!;Ao+meu+GitHub!!!!+;" alt="Texto animado" style="max-width: 100%;"/>
+  <img src="cat.gif" alt="cat.gif" width="20%" style="margin-left: 20px;"/>
+</div>
+
 
   <br/>
  <br/>
@@ -175,4 +179,11 @@ fn main() {
 </div>
 
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
 
