@@ -1,9 +1,4 @@
-#### SOBRE:
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
-<!-- Efeito de terminal hacker -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV!!" alt="Typing animation" />
-</div>
+
 <!-- lepo -->
 <div align="center">
 <img align="right" width="309" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
@@ -19,7 +14,12 @@ fn main() {
 
 ```
 </div>
-
+#### SOBRE:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
+<!-- Efeito de terminal hacker -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV!!" alt="Typing animation" />
+</div>
 
 <p>
 
