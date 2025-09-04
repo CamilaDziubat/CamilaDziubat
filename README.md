@@ -1,6 +1,10 @@
 #### SOBRE:
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
+<!-- Efeito de terminal hacker -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV!!" alt="Typing animation" />
+</div>
+<!-- lepo -->
 <img align="right" width="330" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
@@ -92,6 +96,7 @@ fn main() {
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    
    </div>
+
     
  
   &nbsp; <p align="center"> ***Redes Sociais***  </p>
@@ -106,10 +111,27 @@ fn main() {
     </a>
 </div>
 
+
   <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!!!;" />
 </h2>
 
+<p></p>
+
+   <!-- coluna de linguagem -->
+| Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
+|-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
+|             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Tipagem Escalável | Apps Complexos |
+| **Backend**  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Arch](https://img.shields.io/badge/-Arch-1793D1?logo=arch-linux&logoColor=white) | ⭐⭐⭐⭐☆ | IA/Dados | APIs |
+|             | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Node](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Backend Web | Microserviços |
+| **Mobile**   | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | - | ⭐⭐⭐⭐☆ | Cross-Platform | Apps iOS/Android |
+|             | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | - | - | ⭐⭐☆☆☆ | Android Nativo | Apps Performáticos |
+| **Data/BI**  | - | - | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) | ⭐⭐⭐☆☆ | Análise de Dados | Dashboards |
+| **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
+|             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
+<!-- coluna de linguagem -->
+<p></p>
 
 ### 🏆 GitHub Profile Trophy
 
@@ -126,7 +148,28 @@ fn main() {
 </p>
 
 ---
+<!-- funcao -->
+<p style="text-align: left;">
+<details>
+  <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
 
+# 🚀 Meu Perfil de Desenvolvedora
+  
+START_SECTION:waka
+
+```rust 
+Total Time: 189 hrs 30 mins
+
+JavaScript   92 hrs 45 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.69 %
+HTML         44 hrs 32 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.38 %
+CSS          36 hrs 32 mins  ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.19 %
+Markdown     4 hrs 6 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.16 %
+JSON         3 hrs 40 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.93 %
+Batchfile    2 hrs 14 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.18 %
+Python       2 hrs 13 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.17 %
+Text         1 hr 33 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.82 %
+Other        59 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.52 %
+```
 
 
 <br>
@@ -136,3 +179,4 @@ fn main() {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
