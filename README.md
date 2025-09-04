@@ -6,7 +6,7 @@
 </div>
 <!-- lepo -->
 <div align="center">
-<img align="right" width="320" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="315" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
