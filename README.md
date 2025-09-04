@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV!!" alt="Typing animation" />
 </div>
 <!-- lepo -->
-<img align="right" width="330" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<div align="center">
+<img align="right" width="338" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
@@ -17,7 +18,7 @@ fn main() {
 }
 
 ```
-
+</div>
 
 
 <p>
