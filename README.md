@@ -117,7 +117,7 @@ fn main() {
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olhe+a+Tabela!;" />
 </h2>
 
-<p></p>
+
 
    <!-- coluna de linguagem -->
 | Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
@@ -132,7 +132,7 @@ fn main() {
 | **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
 |             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
 <!-- coluna de linguagem -->
-<p></p>
+
 
 ### 🏆 GitHub Profile Trophy
 
