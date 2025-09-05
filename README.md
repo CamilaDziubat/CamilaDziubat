@@ -156,7 +156,7 @@ fn main() {
 
 # 🚀 Meu Perfil de Desenvolvedora
   
-START_SECTION:waka
+
 
 ```rust 
 Total Time: 189 hrs 30 mins
