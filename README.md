@@ -14,7 +14,9 @@ fn main() {
 
 ```
 </div>
-#### SOBRE:
+
+### SOBRE:
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
 <!-- Efeito de terminal hacker -->
 <div align="center">
