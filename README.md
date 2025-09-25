@@ -37,12 +37,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### 🔹 DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🔹 Ferramentas  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -61,21 +61,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-   <!-- coluna de linguagem -->
-| Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
-|-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
-|             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Tipagem Escalável | Apps Complexos |
-| **Backend**  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Arch](https://img.shields.io/badge/-Arch-1793D1?logo=arch-linux&logoColor=white) | ⭐⭐⭐⭐☆ | IA/Dados | APIs |
-|             | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Node](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Backend Web | Microserviços |
-| **Mobile**   | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | - | ⭐⭐⭐⭐☆ | Cross-Platform | Apps iOS/Android |
-|             | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | - | - | ⭐⭐☆☆☆ | Android Nativo | Apps Performáticos |
-| **Data/BI**  | - | - | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) | ⭐⭐⭐☆☆ | Análise de Dados | Dashboards |
-| **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
-|             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
-<!-- coluna de linguagem -->
 
 ---
 
