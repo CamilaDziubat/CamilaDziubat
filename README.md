@@ -55,12 +55,6 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
----
-<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&v=1" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDziubat&layout=compact&langs_count=8&theme=radical&hide_border=true&v=1" />
 </div>
