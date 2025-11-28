@@ -12,11 +12,12 @@
 
 ---
 
-## 🚀 Sobre mim
-- 🔭 Atualmente focada em **Backend com Python & Django** & **C# com .Net**
-- 🌱 Estudando **Kubernetes, Docker e Arquitetura de Microsserviços**  
-- ⚡ Interesses: **APIs RESTful, Data Engineering, Cloud & DevOps**  
-- 🌍 Localização: *Itajaí - Santa Catarina, Brasil*  
+## About Me
+
+- 🔭 Currently focused on Backend development with *Python & Django and C# with .NET*
+- 🌱 Studying Kubernetes, Docker, and Microservices Architecture
+- ⚡ Interests: *RESTful APIs, Data Engineering, Cloud & DevOps*
+- 🌍 Location: *Itajaí, Santa Catarina, Brazil*
 
 ---
 
@@ -54,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&v=1" />
