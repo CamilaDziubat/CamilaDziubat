@@ -6,6 +6,9 @@
 <h3 align="center">Software Engineer Junior | Backend Developer</h3>
 
 
+![WhatsApp Image 2025-11-28 at 19 57 01](https://github.com/user-attachments/assets/3322cc76-6d20-42c4-8d58-22fc96d45182)
+
+
 
 ---
 
