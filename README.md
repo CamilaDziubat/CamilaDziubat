@@ -10,7 +10,8 @@
 
 
 
----
+<img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
+
 
 ## About Me
 
@@ -19,7 +20,7 @@
 - ⚡ Interests: *RESTful APIs, Data Engineering, Cloud & DevOps*
 - 🌍 Location: *Itajaí, Santa Catarina, Brazil*
 
----
+<img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
 
 ## 🛠️ Tecnologias & Ferramentas  
 
@@ -54,6 +55,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+<img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
 
 ### 📊 GitHub Stats  
 
@@ -73,6 +75,7 @@
 
 
 ---
+<img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
 
 ## 🌐 Conecte-se comigo  
 <p align="center">
