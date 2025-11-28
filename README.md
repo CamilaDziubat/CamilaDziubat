@@ -1,5 +1,5 @@
 <!-- Banner Superior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:430089&text=Camila%20Dziubat&fontColor=ffffff&fontSize=32&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:430089&text=Hello%20Developers&fontColor=ffffff&fontSize=32&fontAlignY=35"/>
 
 <!-- Apresentação -->
 <h1 align="center"> Olá, eu sou a Camila Dziubat</h1>
