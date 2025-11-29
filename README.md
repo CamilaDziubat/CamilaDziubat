@@ -90,7 +90,9 @@
   <a href="https://www.linkedin.com/in/camila-dziubat-805777229/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://instagram.com/camila.dziubat"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+![WhatsApp Image 2025-11-29 at 14 07 52](https://github.com/user-attachments/assets/9f2b67ca-2c41-4d69-98f8-0ea8ea1e1b64)
+
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:430089"/>
