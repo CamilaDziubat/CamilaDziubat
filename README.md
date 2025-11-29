@@ -23,11 +23,8 @@
 <img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
 
 ## 🛠️ Tecnologias & Ferramentas  
-
 <p>
-
- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
 </p>
 
 
