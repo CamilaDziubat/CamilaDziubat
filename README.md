@@ -24,6 +24,13 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 
+<p>
+
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+</p>
+
+
 ### 🔹 Backend  
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -77,12 +84,13 @@
 ---
 <img width="1862" height="13" alt="lineBar" src="https://github.com/user-attachments/assets/81407c68-135c-4cdd-8d7b-f20f050b64bd" />
 
-## 🌐 Conecte-se comigo  
+## 🌐 Conecte-se comigo!
 <p align="center">
   <a href="mailto:goncalvesscamilla07@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/camila-dziubat-805777229/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://instagram.com/camila.dziubat"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:430089"/>
