@@ -91,5 +91,8 @@
 ![WhatsApp Image 2025-11-29 at 14 07 52](https://github.com/user-attachments/assets/9f2b67ca-2c41-4d69-98f8-0ea8ea1e1b64)
 
 
+[![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=bb6cff&line=bb6cff&point=bb6cff&area=true&area_color=bb6cff&hide_border=true)](https://github.com/CamilaDziubat)
+
+
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:430089"/>
