@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:7c3aed&text=Camila%20Dziubat%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
 
 <h1 align="center">Olá, eu sou a Camila Dziubat</h1>
-<h3 align="center">Backend Software Engineer | Python • .NET</h3>
+<h3 align="center">Backend Software Engineer | Java • .NET</h3>
 
 <p align="center">
   <i>Building scalable APIs and backend solutions with clean architecture.</i>
