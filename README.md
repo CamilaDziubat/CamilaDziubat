@@ -5,7 +5,7 @@
 <h3 align="center">Backend Software Engineer | Java • .NET</h3>
 
 <p align="center">
-  <i>Learning how to build APIs and backend solutions..</i>
+  <i>Building apis and backend solutions</i>
 </p>
 
 ---
