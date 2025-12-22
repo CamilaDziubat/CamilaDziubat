@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔭 Backend development with **Python (Django)** and **C# (.NET)**
+- 🔭 Backend development with **Java**, **Python (Django)** and **C# (.NET)**
 - 🌱 Studying **Docker, Kubernetes & Microservices Architecture**
 - ⚙️ Interests: **RESTful APIs, Cloud Computing, Data & DevOps**
 - 📍 Based in **Itajaí, Santa Catarina — Brazil**
@@ -25,6 +25,7 @@
 
 ### 🔹 Backend
 ![Csharp](https://img.shields.io/badge/C%23-7c3aed?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-7c3aed?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white)
