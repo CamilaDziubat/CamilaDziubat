@@ -5,7 +5,7 @@
 <h3 align="center">Backend Software Engineer | Java • .NET</h3>
 
 <p align="center">
-  <i>Learning how to build APIs and backend solutions..</i>
+  <i>Building apis and backend solutions</i>
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ## 📈 Contribution Activity
 
-[![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&hide_border=true)](https://github.com/CamilaDziubat)
+[![Camila Dziubat' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&hide_border=true)](https://github.com/CamilaDziubat)
 
 ---
 
