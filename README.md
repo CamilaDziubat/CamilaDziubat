@@ -5,7 +5,7 @@
 <h3 align="center">Backend Software Engineer | Java • .NET</h3>
 
 <p align="center">
-  <i>Building scalable APIs and backend solutions with clean architecture.</i>
+  <i>Learning how to build APIs and backend solutions..</i>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔭 Backend development with **Java**, **Python (Django)** and **C# (.NET)**
+- 🔭 Backend development with **Java** and **C# (.NET)**
 - 🌱 Studying **Docker, Kubernetes & Microservices Architecture**
 - ⚙️ Interests: **RESTful APIs, Cloud Computing, Data & DevOps**
 - 📍 Based in **Itajaí, Santa Catarina — Brazil**
@@ -27,14 +27,10 @@
 ![Csharp](https://img.shields.io/badge/C%23-7c3aed?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7c3aed?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🔹 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔹 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)
