@@ -50,19 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&theme=transparent&icon_color=7c3aed&text_color=e5e7eb&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDziubat&layout=compact&theme=transparent&text_color=e5e7eb&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=CamilaDziubat&theme=transparent&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 [![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&hide_border=true)](https://github.com/CamilaDziubat)
