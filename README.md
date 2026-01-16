@@ -1,4 +1,5 @@
-<img width="1335" height="862" alt="image" src="https://github.com/user-attachments/assets/76a2db02-0347-4d88-9bb3-47513bf9cdb0" />
+<img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/07d91e55-cd6e-49ac-9b50-e3e80f8be105" />
+
 
 <!-- ===================== BANNER SUPERIOR ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:7c3aed&text=%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
