@@ -1,3 +1,5 @@
+<img width="1335" height="862" alt="image" src="https://github.com/user-attachments/assets/76a2db02-0347-4d88-9bb3-47513bf9cdb0" />
+
 <!-- ===================== BANNER SUPERIOR ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:7c3aed&text=%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
 
@@ -26,11 +28,9 @@
 ### 🔹 Backend
 ![Csharp](https://img.shields.io/badge/C%23-7c3aed?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔹 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔹 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)
