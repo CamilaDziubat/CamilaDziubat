@@ -1,4 +1,4 @@
-<img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/07d91e55-cd6e-49ac-9b50-e3e80f8be105" />
+
 
 
 <!-- ===================== BANNER SUPERIOR ===================== -->
@@ -11,11 +11,9 @@
   <i>Building apis and backend solutions</i>
 </p>
 
----
-![WhatsApp Image 2025-11-28 at 19 57 01](https://github.com/user-attachments/assets/3322cc76-6d20-42c4-8d58-22fc96d45182)
+
 ---
 <!-- ===================== BANNER SUPERIOR ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:7c3aed&text=%20•%20Backend%20Software%20Engineer%20Student&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
 
 <h1 align="center">Camila Dziubat</h1>
 <h3 align="center">Backend Software Engineer Student | Java • .NET</h3>
