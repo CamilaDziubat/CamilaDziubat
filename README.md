@@ -14,8 +14,6 @@
 
 ---
 <!-- ===================== BANNER SUPERIOR ===================== -->
-
-<h1 align="center">Camila Dziubat</h1>
 <h3 align="center">Backend Software Engineer Student | Java • .NET</h3>
 
 <p align="center">
