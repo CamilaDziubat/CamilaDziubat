@@ -1,8 +1,18 @@
 
-
-
 <!-- ===================== BANNER SUPERIOR ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:7c3aed&text=%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:00AB33&text=%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"
+/>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/CamilaDziubat/CamilaDziubat/main/GIF/commit-animation.gif" 
+    width="400px" 
+    alt="commit gif looping"
+  />
+</p>
+
 
 <h1 align="center">Olá, eu sou a Camila Dziubat</h1>
 <h3 align="center">Backend Software Engineer | Java • .NET</h3>
@@ -43,30 +53,39 @@ Currently focused on **learning and applying best practices** in API development
 - Data validation and error handling
 - Authentication basics
 
-### 🔹 Languages
-![Csharp](https://img.shields.io/badge/C%23-7c3aed?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔹 🧪 Languages 
+![Csharp](https://img.shields.io/badge/C%23-00AB33?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00AB33?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🔹 Databases
+
+
+### 🔹 🗄️ Databases 
 - Relational modeling fundamentals
 - Basic SQL queries and relationships
+  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00AB33?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00AB33?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00AB33?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-7c3aed?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔹 DevOps (Learning)
+
+### 🔹 🐳  DevOps (Learning) 
 - Docker fundamentals
 - Containerization concepts
 - Introduction to microservices
 
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00AB33?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00AB33?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-7c3aed?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-7c3aed?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+### 🔹 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-00AB33?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-00AB33?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-00AB33?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ---
 
@@ -81,7 +100,8 @@ Currently focused on **learning and applying best practices** in API development
 
 ## 📈 GitHub Activity
 
-[![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&hide_border=true)](https://github.com/CamilaDziubat)
+[![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c&hide_border=true)](https://github.com/CamilaDziubat)
+
 
 ---
 
@@ -101,7 +121,8 @@ Currently focused on **learning and applying best practices** in API development
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:7c3aed"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:00ff9c"/>
+
 
 
 
