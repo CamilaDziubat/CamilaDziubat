@@ -123,6 +123,8 @@ Currently focused on **learning and applying best practices** in API development
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:00ff9c"/>
 
-
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
 
 
