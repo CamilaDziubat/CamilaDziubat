@@ -35,7 +35,7 @@ Currently, I’m strengthening my backend foundation through **hands-on projects
 
 | Project | Description |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=CamilaDziubat&repo=backend-api&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Backend REST API** built with **Java / .NET**, focused on **clean architecture**, **data persistence**, and **API best practices**. |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=CamilaDziubat&repo=Tela_De_Login_Saas_Neon&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **SaaS-style login interface** built with **HTML**, **CSS/SCSS**, and **JavaScript**, focused on **modern UI**, **responsive layout**, and **clean component structure**, serving as a foundation for SaaS authentication screens. |
 
 <details>
 <summary><b>Read more</b></summary>
@@ -44,13 +44,12 @@ Currently, I’m strengthening my backend foundation through **hands-on projects
 
 | Concept | Implementation Detail |
 | :--- | :--- |
-| **Architecture** | Layered Architecture |
-| **API Design** | RESTful API |
-| **Validation** | Request validation and global error handling |
-| **Persistence** | Relational databases (JPA / EF Core) |
-| **Security (Basics)** | Authentication fundamentals |
-| **Tools** | Git, Postman |
-| **Database** | PostgreSQL / MySQL |
+| **Project Type** | SaaS login interface |
+| **Frontend Stack** | HTML, CSS, SCSS, JavaScript |
+| **Styling** | SCSS modular structure |
+| **UI Focus** | Modern SaaS-inspired design |
+| **Responsiveness** | Mobile-first layout |
+| **Purpose** | Authentication screen base for SaaS applications |
 
 </details>
 
