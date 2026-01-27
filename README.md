@@ -1,130 +1,129 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header" />
 
-<!-- ===================== BANNER SUPERIOR ===================== -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:00AB33&text=%20•%20Backend%20Software%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=35"
-/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=120&lines=Hey!+I'm+Camila+Dziubat.;Backend+Software+Engineer.;Java+%26+.NET." />
+</h3>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/CamilaDziubat/CamilaDziubat/main/GIF/commit-animation.gif" 
-    width="400px" 
-    alt="commit gif looping"
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
+
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=ABOUT+ME&fontSize=30&fontColor=00FF00"
   />
-</p>
+</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDziubat&layout=donut&langs_count=5&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="380" align="right" />
 
-<h1 align="center">Olá, eu sou a Camila Dziubat</h1>
-<h3 align="center">Backend Software Engineer | Java • .NET</h3>
+I’m a **Backend Software Engineer** focused on building **APIs and backend systems** using **Java** and **C# (.NET)**.
 
-<p align="center">
-  <i>Building apis and backend solutions</i>
-</p>
+I focus on **clean code**, **SOLID principles**, and **well-structured architectures**, aiming to build systems that are **maintainable**, **readable**, and ready to evolve.  
+I enjoy understanding how backend systems work internally — from request handling to data persistence and validation.
 
-
----
-<!-- ===================== BANNER SUPERIOR ===================== -->
-<h3 align="center">Backend Software Engineer Student | Java • .NET</h3>
-
-<p align="center">
-  <i>
-    Software Engineering student focused on backend development, 
-    building APIs and learning how to design scalable and maintainable systems.
-  </i>
-</p>
-
----
-
-## 👩‍🎓 About Me
-
-Software Engineering student with a strong interest in **backend development** using **Java** and **C# (.NET)**.  
-Currently focused on **learning and applying best practices** in API development, software architecture, and modern backend tools through hands-on projects.
+Currently, I’m strengthening my backend foundation through **hands-on projects**, applying best practices and gradually evolving toward more advanced backend and architecture concepts.
 
 📍 Based in **Itajaí, Santa Catarina — Brazil**
 
----
+<br clear="right">
 
-## 🧠 Learning & Technical Focus
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-### 🔹 Backend Foundations
-- RESTful API development
-- Layered architecture concepts
-- SOLID principles (in practice)
-- Data validation and error handling
-- Authentication basics
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00"
+  />
+</h3>
 
-### 🔹 🧪 Languages 
-![Csharp](https://img.shields.io/badge/C%23-00AB33?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00AB33?style=for-the-badge&logo=openjdk&logoColor=white)
+| Project | Description |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=CamilaDziubat&repo=backend-api&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Backend REST API** built with **Java / .NET**, focused on **clean architecture**, **data persistence**, and **API best practices**. |
 
+<details>
+<summary><b>Read more</b></summary>
 
+<br>
 
-### 🔹 🗄️ Databases 
-- Relational modeling fundamentals
-- Basic SQL queries and relationships
-  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00AB33?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00AB33?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-00AB33?style=for-the-badge&logo=sqlite&logoColor=white)
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Architecture** | Layered Architecture |
+| **API Design** | RESTful API |
+| **Validation** | Request validation and global error handling |
+| **Persistence** | Relational databases (JPA / EF Core) |
+| **Security (Basics)** | Authentication fundamentals |
+| **Tools** | Git, Postman |
+| **Database** | PostgreSQL / MySQL |
 
+</details>
 
+<br>
 
-### 🔹 🐳  DevOps (Learning) 
-- Docker fundamentals
-- Containerization concepts
-- Introduction to microservices
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-![Docker](https://img.shields.io/badge/Docker-00AB33?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00AB33?style=for-the-badge&logo=kubernetes&logoColor=white)
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=WHAT+I'M+CURRENTLY+LEARNING&fontSize=30&fontColor=00FF00"
+  />
+</h3>
 
+### 🔹 Backend & Software Architecture
 
+| Topic | Focus |
+| :--- | :--- |
+| **Backend APIs** | RESTful API design and best practices |
+| **Architecture** | Layered architecture & SOLID |
+| **Databases** | Relational modeling & SQL |
+| **DevOps** | Docker fundamentals |
+| **Microservices** | Introductory concepts |
 
-### 🔹 🛠️ Tools
+📌 Current Goal: Build consistent backend APIs while strengthening architectural thinking and code quality.
 
-![Git](https://img.shields.io/badge/Git-00AB33?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-00AB33?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-00AB33?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECHNOLOGIES&fontSize=30&fontColor=00FF00"
+  />
+</h3>
 
+### 🟢 Backend & Languages
+![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=openjdk&logoColor=4CAF50)
+![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge&logo=c-sharp&logoColor=4CAF50)
 
----
+### ⚙️ Architecture & DevOps
+![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge&logo=kubernetes&logoColor=4CAF50)
 
-## 🚀 What I’m Currently Focusing On
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
+![MySQL](https://img.shields.io/badge/MySQL-003300?style=for-the-badge&logo=mysql&logoColor=4CAF50)
 
-- Improving backend fundamentals through real projects
-- Writing clean and readable code
-- Understanding software architecture concepts
-- Learning how backend systems work in real-world scenarios
+### 🔌 Tools
+![Git](https://img.shields.io/badge/Git-003300?style=for-the-badge&logo=git&logoColor=4CAF50)
+![Postman](https://img.shields.io/badge/Postman-003300?style=for-the-badge&logo=postman&logoColor=4CAF50)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-## 📈 GitHub Activity
-
-[![Camila Dziubat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilaDziubat&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c&hide_border=true)](https://github.com/CamilaDziubat)
-
-
----
-
-## 🌐 Connect with Me
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=CONTACT+ME&fontSize=30&fontColor=00FF00"
+  />
+</h3>
 
 <p align="center">
   <a href="mailto:goncalvesscamilla07@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+    <img src="https://img.shields.io/badge/Email-goncalvesscamilla07@gmail.com-%23009900?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-
   <a href="https://www.linkedin.com/in/camila-dziubat-805777229/">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  
-  <a href="https://instagram.com/camila.dziubat">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Camila%20Dziubat-%23009900?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:00ff9c"/>
 
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
+<br> 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
+</picture>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" />
