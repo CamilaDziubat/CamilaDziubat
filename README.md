@@ -14,14 +14,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDziubat&layout=donut&langs_count=5&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="380" align="right" />
 
-I’m a **Backend Software Engineer** focused on building **APIs and backend systems** using **Java** and **C# (.NET)**.
+## 👩‍💻 About Me
 
-I focus on **clean code**, **SOLID principles**, and **well-structured architectures**, aiming to build systems that are **maintainable**, **readable**, and ready to evolve.  
-I enjoy understanding how backend systems work internally — from request handling to data persistence and validation.
+I’m a **Frontend Developer** with experience building **modern web interfaces**, and currently a **Backend student** focused on developing **APIs**, **SaaS applications**, **microservices**, and **containerized solutions with Docker**.
 
-Currently, I’m strengthening my backend foundation through **hands-on projects**, applying best practices and gradually evolving toward more advanced backend and architecture concepts.
+My main backend focus is **C# (.NET)**, where I’m deepening my knowledge in **API architecture**, **best practices**, **code organization**, and **service integration**.  
+Additionally, I have a strong interest in **Java** and I’m actively learning the language to expand my backend skill set and work across different ecosystems.
+
+I enjoy writing **clean code**, understanding **how systems work behind the scenes**, and continuously evolving through **hands-on projects**, always aiming to build solutions that are **well-structured**, **scalable**, and aligned with solid software engineering practices.
 
 📍 Based in **Itajaí, Santa Catarina — Brazil**
+
 
 <br clear="right">
 
